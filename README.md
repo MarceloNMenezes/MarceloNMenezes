@@ -1,17 +1,17 @@
 <h2> Olá! Eu sou o Marcelo. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 <img src="https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" width="40" height="40">
- 
-<!--
+ 	 
+
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
-- 🔭 &nbsp; Atualmente estou estagiando em uma empresa de Cloud & Data
+- 🔭 &nbsp; Atualmente estou estagiando em uma empresa de Computec Shop
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Cursando Análise e Desenvolvimento de Sistemas.
 - 💼 &nbsp; Desenvolvedor web.
 - 🌱 &nbsp; Entusiasta de tecnologia como um todo.
 - ✍️ &nbsp; estudando e se mantendo atualizado sempre.
-- ☕ &nbsp; Eu acredito que uma xícara de café perfeita pode ser a solução definitiva para qualquer estresse. 
+- ☕ &nbsp; "Tudo posso naquele que me fortalece".
 
 <h3>🛠 Hard Skills</h3>
 
