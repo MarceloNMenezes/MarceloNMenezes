@@ -5,7 +5,7 @@
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
-- 🔭 &nbsp; Atualmente estou estagiando em uma empresa de Computec Shop
+- 🔭 &nbsp; Atualmente estou estagiando na empresa  Computec Shop
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Cursando Análise e Desenvolvimento de Sistemas.
 - 💼 &nbsp; Desenvolvedor web.
@@ -31,14 +31,13 @@
 <h3> 🤝🏻 Conecte-se comigo </h3>
 
 
-
 <p align="center">
-&nbsp; <a href="https://www.facebook.com/alanvidalll/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" /></a>  
+&nbsp; <a href="https://www.facebook.com/marcelo.ariane" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/alan_vidalll/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/alanvidalll/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:alanfonseca7812@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="www.linkedin.com/in/marcelonmenezes" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:mnssmenezes@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
--->
+
 
 ⭐️ From [Marcelo Menezes](https://github.com/MarceloNMenezes)
